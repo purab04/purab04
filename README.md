@@ -1,10 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on **FootHeroes** (a football-focused web app) and doing **freelance website development** projects  <br>
-🤝 I’m looking to collaborate on **fun dev projects**, especially in web, AI or ethical hacking  <br>
-🧠 I’m looking for help with **frontend animations**, backend structuring & performance optimization  <br>
-🌱 I’m currently learning **full-stack web dev**, **React**, and how to make things *actually* look good in Figma  <br>
-💬 Ask me about Python tools, ethical hacking scripts, or building side projects  <br>
-⚡ Fun fact: I started with hacking tools but now I’m in love with frontend too — weird combo, right?
+💫 About Me
+🔭 I’m a self-driven developer passionate about building clean, functional, and visually engaging web experiences.
+🤝 Open to collaborating on exciting projects across web development, AI integration, or ethical hacking.
+🧠 Actively learning full-stack development with a strong focus on frontend animation, backend architecture, and performance optimization.
+🌱 Exploring React, modern UI/UX design, and turning ideas into fully working apps.
+💬 Comfortable with Python scripting, cybersecurity tools, and automating workflows.
+⚡ Fun fact: I started out building hacking utilities — now I’m just as obsessed with pixel-perfect interfaces.
+
 
 
 ## 🌐 Socials:
