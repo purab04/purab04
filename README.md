@@ -1,4 +1,6 @@
 💫 About Me
+
+
 🔭 I’m a self-driven developer passionate about building clean, functional, and visually engaging web experiences.
 🤝 Open to collaborating on exciting projects across web development, AI integration, or ethical hacking.
 🧠 Actively learning full-stack development with a strong focus on frontend animation, backend architecture, and performance optimization.
